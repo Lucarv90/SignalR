@@ -1,0 +1,159 @@
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csc.exe
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csc.exe.config
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csc.rsp
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csi.exe
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csi.rsp
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.AppContext.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\vbc.exe
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\vbc.exe.config
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\vbc.rsp
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Presentation.dll.config
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Presentation.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Presentation.pdb
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Newtonsoft.Json.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Owin.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Helpers.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Mvc.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Razor.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Newtonsoft.Json.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Razor.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Razor.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Helpers.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Mvc.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojResolveAssemblyReference.cache
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\obj\Debug\Projeto.Presentation.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\obj\Debug\Projeto.Presentation.pdb
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.Owin.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.Owin.Security.resources.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Entidades.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Repository.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Entidades.pdb
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Repository.pdb
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Repository.dll.config
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csc.exe
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csc.exe.config
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csc.rsp
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csi.exe
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\csi.rsp
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.AppContext.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.Collections.Immutable.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\vbc.exe
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\vbc.exe.config
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\vbc.rsp
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Presentation.dll.config
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Presentation.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Presentation.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.SqlServer.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Security.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Newtonsoft.Json.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Owin.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Entidades.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Repository.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Helpers.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Mvc.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Razor.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Entidades.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Projeto.Repository.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\EntityFramework.SqlServer.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Microsoft.Owin.Security.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\Newtonsoft.Json.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Razor.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Webpages.Razor.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Helpers.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\System.Web.Mvc.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.AspNet.SignalR.Core.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.Owin.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\Microsoft.Owin.Security.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojResolveAssemblyReference.cache
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\obj\Debug\Projeto.Presentation.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Presentation\obj\Debug\Projeto.Presentation.pdb

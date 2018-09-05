@@ -1,0 +1,10 @@
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Entidades\bin\Debug\Projeto.Entidades.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Entidades\bin\Debug\Projeto.Entidades.pdb
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Entidades\obj\Debug\Projeto.Entidades.csprojResolveAssemblyReference.cache
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Entidades\obj\Debug\Projeto.Entidades.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Entidades\obj\Debug\Projeto.Entidades.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Entidades\obj\Debug\Projeto.Entidades.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Entidades\obj\Debug\Projeto.Entidades.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Entidades\bin\Debug\Projeto.Entidades.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Entidades\bin\Debug\Projeto.Entidades.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Entidades\obj\Debug\Projeto.Entidades.csprojResolveAssemblyReference.cache

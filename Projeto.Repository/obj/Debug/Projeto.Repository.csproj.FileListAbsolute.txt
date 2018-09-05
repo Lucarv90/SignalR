@@ -1,0 +1,24 @@
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\obj\Debug\Projeto.Repository.csprojResolveAssemblyReference.cache
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Entidades.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Entidades.pdb
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Lucarv\Aula Avançado\Aula16\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Entidades.dll
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\Projeto.Entidades.pdb
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# Estudos\Aula Avançado\Aula16\Projeto.Repository\obj\Debug\Projeto.Repository.csprojResolveAssemblyReference.cache
